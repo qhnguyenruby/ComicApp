@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "825041123340",
+    "firebase_url": "https://appdoctruyen-a5138-default-rtdb.firebaseio.com",
+    "project_id": "appdoctruyen-a5138",
+    "storage_bucket": "appdoctruyen-a5138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825041123340:android:5f4cb07a87b19a19e7d629",
+        "android_client_info": {
+          "package_name": "com.example.comicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825041123340-57j356mclf38ce0dibitsf7sf9h36a4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk0zLtUIduIHlE1iiQ2Qi2V3l5_Rf42FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825041123340-57j356mclf38ce0dibitsf7sf9h36a4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825041123340:android:3dcc5bc491e301a8e7d629",
+        "android_client_info": {
+          "package_name": "com.midterm.connecttofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825041123340-57j356mclf38ce0dibitsf7sf9h36a4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk0zLtUIduIHlE1iiQ2Qi2V3l5_Rf42FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825041123340-57j356mclf38ce0dibitsf7sf9h36a4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
